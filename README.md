@@ -29,16 +29,6 @@ npm install
 npm run dev
 ```
 
-## Technologies Used
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- Tailwind CSS
-- Shadcn UI
-
 ## Deployment
 
 To deploy this project:
